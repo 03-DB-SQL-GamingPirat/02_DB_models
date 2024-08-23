@@ -723,7 +723,7 @@
         "comment": "",
         "dataType": "INT",
         "default": "",
-        "options": 12,
+        "options": 8,
         "ui": {
           "keys": 2,
           "widthName": 60,
@@ -732,7 +732,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1724316447915,
+          "updateAt": 1724402039832,
           "createAt": 1724314501679
         }
       }
@@ -1217,7 +1217,7 @@
         "dataType": 1724314546279,
         "default": 1724314501677,
         "comment": 1724314501677,
-        "options(unique)": 1724314566140
+        "options(unique)": 1724402039828
       }
     ],
     "0xPojuEjphcnJUTogGYAO": [
