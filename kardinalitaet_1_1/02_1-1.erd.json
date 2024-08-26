@@ -8,7 +8,7 @@
     "scrollLeft": 0,
     "zoomLevel": 1,
     "show": 500,
-    "database": 1,
+    "database": 4,
     "databaseName": "design",
     "canvasType": "ERD",
     "language": 1,
@@ -31,14 +31,25 @@
   },
   "doc": {
     "tableIds": [
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
       "mVdGIJKeg2PmFM-W8_v-c",
       "1fEfsjEKYlV0e6UeMx4o6"
     ],
     "relationshipIds": [
       "0xPojuEjphcnJUTogGYAO"
+=======
+      "4K3E9ucn7qANnqbj7A-o1",
+      "VCS4pdJs526eBNaP2TCtn"
+    ],
+    "relationshipIds": [
+      "X3w2RWGMu2Mkj7SRHBqHI"
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
     ],
     "indexIds": [],
-    "memoIds": []
+    "memoIds": [
+      "aWMdAb-IiZ8fLrmst1Klx",
+      "ZbsNC7dzjJI3mR7ty6Fkx"
+    ]
   },
   "collections": {
     "tableEntities": {
@@ -153,6 +164,7 @@
           "createAt": 1724221188261
         }
       },
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
       "mVdGIJKeg2PmFM-W8_v-c": {
         "id": "mVdGIJKeg2PmFM-W8_v-c",
         "name": "catmom",
@@ -173,12 +185,32 @@
         "ui": {
           "x": 146,
           "y": 218,
+=======
+      "4K3E9ucn7qANnqbj7A-o1": {
+        "id": "4K3E9ucn7qANnqbj7A-o1",
+        "name": "cats",
+        "comment": "",
+        "columnIds": [
+          "TFqod2aYm82Gl5P7C7hBd",
+          "yJehSDEgo79dtkkKRNTLt",
+          "MziyYlGcUxTVJwL2rgk2o"
+        ],
+        "seqColumnIds": [
+          "TFqod2aYm82Gl5P7C7hBd",
+          "yJehSDEgo79dtkkKRNTLt",
+          "MziyYlGcUxTVJwL2rgk2o"
+        ],
+        "ui": {
+          "x": 103,
+          "y": 56,
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
           "zIndex": 2,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "updateAt": 1724316438891,
           "createAt": 1724314326722
         }
@@ -205,13 +237,45 @@
           "x": 602,
           "y": 206,
           "zIndex": 3,
+=======
+          "updateAt": 1724228354688,
+          "createAt": 1724228121813
+        }
+      },
+      "VCS4pdJs526eBNaP2TCtn": {
+        "id": "VCS4pdJs526eBNaP2TCtn",
+        "name": "servants",
+        "comment": "",
+        "columnIds": [
+          "Th-AHxupcBEovcqojHfh7",
+          "BpYNkNTqycnnJUysMn-Ql",
+          "FU9Tz3UzUZnRvGD1DT62W",
+          "sb08JjjhrnAJhmX64vc2S"
+        ],
+        "seqColumnIds": [
+          "Th-AHxupcBEovcqojHfh7",
+          "BpYNkNTqycnnJUysMn-Ql",
+          "FU9Tz3UzUZnRvGD1DT62W",
+          "_WMi0LIXSkhCEo3sFtlan",
+          "sb08JjjhrnAJhmX64vc2S"
+        ],
+        "ui": {
+          "x": 562,
+          "y": 44,
+          "zIndex": 7,
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "updateAt": 1724314509965,
           "createAt": 1724314328269
+=======
+          "updateAt": 1724230263329,
+          "createAt": 1724228147807
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         }
       }
     },
@@ -496,12 +560,21 @@
           "createAt": 1724221221697
         }
       },
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
       "XkjjkNdGntw21SuNxw787": {
         "id": "XkjjkNdGntw21SuNxw787",
         "tableId": "mVdGIJKeg2PmFM-W8_v-c",
         "name": "id",
         "comment": "",
         "dataType": "",
+=======
+      "TFqod2aYm82Gl5P7C7hBd": {
+        "id": "TFqod2aYm82Gl5P7C7hBd",
+        "tableId": "4K3E9ucn7qANnqbj7A-o1",
+        "name": "id",
+        "comment": "",
+        "dataType": "INT",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "default": "",
         "options": 11,
         "ui": {
@@ -512,6 +585,7 @@
           "widthDefault": 60
         },
         "meta": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "updateAt": 1724314423511,
           "createAt": 1724314344477
         }
@@ -522,12 +596,25 @@
         "name": "cat_name",
         "comment": "",
         "dataType": "VARCHAR(45)",
+=======
+          "updateAt": 1724228682074,
+          "createAt": 1724228353670
+        }
+      },
+      "yJehSDEgo79dtkkKRNTLt": {
+        "id": "yJehSDEgo79dtkkKRNTLt",
+        "tableId": "4K3E9ucn7qANnqbj7A-o1",
+        "name": "cat_name",
+        "comment": "",
+        "dataType": "VARCHAR",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "default": "",
         "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "widthDataType": 75,
           "widthDefault": 60
         },
@@ -542,12 +629,29 @@
         "name": "fur_color",
         "comment": "",
         "dataType": "VARCHAR(45)",
+=======
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1724228643101,
+          "createAt": 1724228354185
+        }
+      },
+      "MziyYlGcUxTVJwL2rgk2o": {
+        "id": "MziyYlGcUxTVJwL2rgk2o",
+        "tableId": "4K3E9ucn7qANnqbj7A-o1",
+        "name": "fur_color",
+        "comment": "",
+        "dataType": "VARCHAR",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "default": "",
         "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "widthDataType": 75,
           "widthDefault": 60
         },
@@ -559,6 +663,19 @@
       "t3SdXJoq9nKYBcTf7wrHg": {
         "id": "t3SdXJoq9nKYBcTf7wrHg",
         "tableId": "1fEfsjEKYlV0e6UeMx4o6",
+=======
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1724228643989,
+          "createAt": 1724228354688
+        }
+      },
+      "Th-AHxupcBEovcqojHfh7": {
+        "id": "Th-AHxupcBEovcqojHfh7",
+        "tableId": "VCS4pdJs526eBNaP2TCtn",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "name": "id",
         "comment": "",
         "dataType": "INT",
@@ -572,6 +689,7 @@
           "widthDefault": 60
         },
         "meta": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "updateAt": 1724314568998,
           "createAt": 1724314346735
         }
@@ -582,10 +700,23 @@
         "name": "kittens_name",
         "comment": "",
         "dataType": "VARCHAR(45)",
+=======
+          "updateAt": 1724229110367,
+          "createAt": 1724228948271
+        }
+      },
+      "BpYNkNTqycnnJUysMn-Ql": {
+        "id": "BpYNkNTqycnnJUysMn-Ql",
+        "tableId": "VCS4pdJs526eBNaP2TCtn",
+        "name": "servant_name",
+        "comment": "",
+        "dataType": "VARCHAR",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "default": "",
         "options": 8,
         "ui": {
           "keys": 0,
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "widthName": 72,
           "widthComment": 60,
           "widthDataType": 75,
@@ -602,12 +733,31 @@
         "name": "fur_color",
         "comment": "",
         "dataType": "VARCHAR(45)",
+=======
+          "widthName": 75,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1724229668299,
+          "createAt": 1724228948803
+        }
+      },
+      "FU9Tz3UzUZnRvGD1DT62W": {
+        "id": "FU9Tz3UzUZnRvGD1DT62W",
+        "tableId": "VCS4pdJs526eBNaP2TCtn",
+        "name": "yrs_served",
+        "comment": "",
+        "dataType": "TINYINT",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "default": "",
         "options": 8,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "widthDataType": 75,
           "widthDefault": 60
         },
@@ -628,10 +778,13 @@
           "keys": 1,
           "widthName": 60,
           "widthComment": 60,
+=======
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
           "widthDataType": 60,
           "widthDefault": 60
         },
         "meta": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "updateAt": 1724314441858,
           "createAt": 1724314441858
         }
@@ -720,11 +873,44 @@
         "id": "wneFwYXcSdFfCO9nobpXA",
         "tableId": "1fEfsjEKYlV0e6UeMx4o6",
         "name": "catmom_id",
+=======
+          "updateAt": 1724229669267,
+          "createAt": 1724228949259
+        }
+      },
+      "_WMi0LIXSkhCEo3sFtlan": {
+        "id": "_WMi0LIXSkhCEo3sFtlan",
+        "tableId": "VCS4pdJs526eBNaP2TCtn",
+        "name": "cats_id",
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         "comment": "",
         "dataType": "INT",
         "default": "",
         "options": 8,
         "ui": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
+=======
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1724229462541,
+          "createAt": 1724229426917
+        }
+      },
+      "sb08JjjhrnAJhmX64vc2S": {
+        "id": "sb08JjjhrnAJhmX64vc2S",
+        "tableId": "VCS4pdJs526eBNaP2TCtn",
+        "name": "cats_id",
+        "comment": "",
+        "dataType": "INT",
+        "default": "",
+        "options": 12,
+        "ui": {
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
           "keys": 2,
           "widthName": 60,
           "widthComment": 60,
@@ -732,8 +918,13 @@
           "widthDefault": 60
         },
         "meta": {
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
           "updateAt": 1724402039832,
           "createAt": 1724314501679
+=======
+          "updateAt": 1724235508364,
+          "createAt": 1724230263329
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         }
       }
     },
@@ -850,6 +1041,7 @@
           "createAt": 1724221221697
         }
       },
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
       "0xPojuEjphcnJUTogGYAO": {
         "id": "0xPojuEjphcnJUTogGYAO",
         "identification": false,
@@ -876,6 +1068,62 @@
         "meta": {
           "updateAt": 1724314501679,
           "createAt": 1724314501679
+=======
+      "ZYD0E3PC9efFj4LI-nDjO": {
+        "id": "ZYD0E3PC9efFj4LI-nDjO",
+        "identification": false,
+        "relationshipType": 8,
+        "startRelationshipType": 2,
+        "start": {
+          "tableId": "4K3E9ucn7qANnqbj7A-o1",
+          "columnIds": [
+            "TFqod2aYm82Gl5P7C7hBd"
+          ],
+          "x": 385,
+          "y": 120,
+          "direction": 2
+        },
+        "end": {
+          "tableId": "VCS4pdJs526eBNaP2TCtn",
+          "columnIds": [
+            "_WMi0LIXSkhCEo3sFtlan"
+          ],
+          "x": 562,
+          "y": 120,
+          "direction": 1
+        },
+        "meta": {
+          "updateAt": 1724229426922,
+          "createAt": 1724229426922
+        }
+      },
+      "X3w2RWGMu2Mkj7SRHBqHI": {
+        "id": "X3w2RWGMu2Mkj7SRHBqHI",
+        "identification": false,
+        "relationshipType": 8,
+        "startRelationshipType": 2,
+        "start": {
+          "tableId": "4K3E9ucn7qANnqbj7A-o1",
+          "columnIds": [
+            "TFqod2aYm82Gl5P7C7hBd"
+          ],
+          "x": 385,
+          "y": 120,
+          "direction": 2
+        },
+        "end": {
+          "tableId": "VCS4pdJs526eBNaP2TCtn",
+          "columnIds": [
+            "sb08JjjhrnAJhmX64vc2S"
+          ],
+          "x": 562,
+          "y": 120,
+          "direction": 1
+        },
+        "meta": {
+          "updateAt": 1724230263329,
+          "createAt": 1724230263329
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
         }
       }
     },
@@ -894,7 +1142,40 @@
       }
     },
     "indexColumnEntities": {},
-    "memoEntities": {}
+    "memoEntities": {
+      "aWMdAb-IiZ8fLrmst1Klx": {
+        "id": "aWMdAb-IiZ8fLrmst1Klx",
+        "value": "Mastertabelle",
+        "ui": {
+          "x": 100.333,
+          "y": 203.3333,
+          "zIndex": 111,
+          "width": 116,
+          "height": 100,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1724229539299,
+          "createAt": 1724229532052
+        }
+      },
+      "ZbsNC7dzjJI3mR7ty6Fkx": {
+        "id": "ZbsNC7dzjJI3mR7ty6Fkx",
+        "value": "Detailtabelle m.\nFremdschlüssel",
+        "ui": {
+          "x": 564.333,
+          "y": 212.3333,
+          "zIndex": 121,
+          "width": 116,
+          "height": 100,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1724229570274,
+          "createAt": 1724229550662
+        }
+      }
+    }
   },
   "lww": {
     "foPZgdpy-2Qfjp8GLrBoI": [
@@ -1063,6 +1344,7 @@
       1724222101026,
       {}
     ],
+<<<<<<< HEAD:kardinalitaet_1_n/1_n.erd.json
     "mVdGIJKeg2PmFM-W8_v-c": [
       "tableEntities",
       1724314326720,
@@ -1223,6 +1505,138 @@
     "0xPojuEjphcnJUTogGYAO": [
       "relationshipEntities",
       1724314501677,
+=======
+    "4K3E9ucn7qANnqbj7A-o1": [
+      "tableEntities",
+      1724228121812,
+      -1,
+      {
+        "name": 1724228322338
+      }
+    ],
+    "VCS4pdJs526eBNaP2TCtn": [
+      "tableEntities",
+      1724228147806,
+      -1,
+      {
+        "name": 1724228863729
+      }
+    ],
+    "TFqod2aYm82Gl5P7C7hBd": [
+      "tableColumnEntities",
+      1724228353669,
+      -1,
+      {
+        "name": 1724228555465,
+        "dataType": 1724228592611,
+        "options(notNull)": 1724228641478,
+        "options(autoIncrement)": 1724228655509,
+        "options(primaryKey)": 1724228682074
+      }
+    ],
+    "yJehSDEgo79dtkkKRNTLt": [
+      "tableColumnEntities",
+      1724228354184,
+      -1,
+      {
+        "name": 1724228566198,
+        "dataType": 1724228613413,
+        "options(notNull)": 1724228643101
+      }
+    ],
+    "MziyYlGcUxTVJwL2rgk2o": [
+      "tableColumnEntities",
+      1724228354688,
+      -1,
+      {
+        "name": 1724228578115,
+        "dataType": 1724228618421,
+        "options(notNull)": 1724228643989
+      }
+    ],
+    "Th-AHxupcBEovcqojHfh7": [
+      "tableColumnEntities",
+      1724228948271,
+      -1,
+      {
+        "name": 1724228952953,
+        "dataType": 1724228998991,
+        "options(notNull)": 1724229004086,
+        "options(autoIncrement)": 1724229005762,
+        "options(primaryKey)": 1724229110366
+      }
+    ],
+    "BpYNkNTqycnnJUysMn-Ql": [
+      "tableColumnEntities",
+      1724228948802,
+      -1,
+      {
+        "name": 1724228964005,
+        "dataType": 1724229018297,
+        "options(notNull)": 1724229668299
+      }
+    ],
+    "FU9Tz3UzUZnRvGD1DT62W": [
+      "tableColumnEntities",
+      1724228949258,
+      -1,
+      {
+        "name": 1724228972874,
+        "dataType": 1724229028705,
+        "options(notNull)": 1724229669267
+      }
+    ],
+    "_WMi0LIXSkhCEo3sFtlan": [
+      "tableColumnEntities",
+      1724229426915,
+      1724230254236,
+      {
+        "options(notNull)": 1724229426915,
+        "name": 1724229462540,
+        "dataType": 1724229426915,
+        "default": 1724229426915,
+        "comment": 1724229426915
+      }
+    ],
+    "ZYD0E3PC9efFj4LI-nDjO": [
+      "relationshipEntities",
+      1724229426915,
+      1724230254236,
+      {}
+    ],
+    "aWMdAb-IiZ8fLrmst1Klx": [
+      "memoEntities",
+      1724229532045,
+      -1,
+      {
+        "value": 1724229539299
+      }
+    ],
+    "ZbsNC7dzjJI3mR7ty6Fkx": [
+      "memoEntities",
+      1724229550661,
+      -1,
+      {
+        "value": 1724229570274
+      }
+    ],
+    "sb08JjjhrnAJhmX64vc2S": [
+      "tableColumnEntities",
+      1724230263327,
+      -1,
+      {
+        "options(notNull)": 1724230263327,
+        "name": 1724230275368,
+        "dataType": 1724230263327,
+        "default": 1724230263327,
+        "comment": 1724230263327,
+        "options(unique)": 1724235508356
+      }
+    ],
+    "X3w2RWGMu2Mkj7SRHBqHI": [
+      "relationshipEntities",
+      1724230263327,
+>>>>>>> 0efd97646f7ac9e7c1317a2b9c81d472881343c9:kardinalitaet_1_1/02_1-1.erd.json
       -1,
       {}
     ]
