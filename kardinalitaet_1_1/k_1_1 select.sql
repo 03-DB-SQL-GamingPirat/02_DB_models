@@ -70,7 +70,7 @@ SELECT
     -- yrs_served AS Dienstzeit,
     CONCAT(servant_name, " - der Diener von ", cat_name, " - ist der Diener mit der laengsten Dienstzeit") AS Dienstzeit
 FROM design.cats INNER JOIN design.servants
-ON design.cats.id = design.servants.cats_id
+ON design.cats.id = design.servants.cat_id
 ORDER BY yrs_served DESC
 LIMIT 1
 ;
